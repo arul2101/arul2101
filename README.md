@@ -28,6 +28,6 @@ Currently I am active as a student at Open University majoring in Information Sy
 </p>
 
 ### Reach me on
-<a href="https://www.linkedin.com/in/muhammad-yanuarullah-assidiq-90a698255/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="21px" align="center" alt="LinkedIn Logo" /> &nbsp;Muhammad Yanuarullah Assidiq</a><br>
-<a href="https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=CllgCJftMNdltQjlpGDswSdSWzWZVhlQgQcDTnFhQkdrdjXSRtWvHBjkZfWxNRKgmdtVWHMPlxq"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="21px" align="center" alt="Gmail Logo" /> &nbsp;m.yanuarullah2101@gmail.com</a><br>
-<a href="https://sidiqyanuar.vercel.app"><img src="https://www.svgrepo.com/show/213335/browser-internet.svg" width="21px" align="center" alt="Gmail Logo" /> &nbsp;Website Portfolio</a><br>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="21px" align="center" alt="LinkedIn Logo" />&nbsp;&nbsp;<a href="https://www.linkedin.com/in/muhammad-yanuarullah-assidiq-90a698255/">Muhammad Yanuarullah Assidiq</a>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="21px" align="center" alt="Gmail Logo" />&nbsp;&nbsp;<a href="https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=CllgCJftMNdltQjlpGDswSdSWzWZVhlQgQcDTnFhQkdrdjXSRtWvHBjkZfWxNRKgmdtVWHMPlxq">m.yanuarullah2101@gmail.com</a>
+- <img src="https://www.svgrepo.com/show/213335/browser-internet.svg" width="21px" align="center" alt="Gmail Logo" />&nbsp;&nbsp;<a href="https://sidiqyanuar.vercel.app">Website Portfolio</a>
