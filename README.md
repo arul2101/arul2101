@@ -10,13 +10,12 @@ Currently I am active as a student at Open University majoring in Information Sy
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" /></a>
-
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
   <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
-  <a href="https://go.dev"/><img align="center" alt="Golang" title="Go Language" width="21px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" /></a>
-  <a href="https://www.php.net/"/><img align="center" alt="PHP" title="PHP" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
-  <a href="https://laravel.com/"/><img align="center" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
+  <a href="https://go.dev"/><img align="left" alt="Golang" title="Go Language" width="21px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" /></a>
+  <a href="https://www.php.net/"/><img align="left" alt="PHP" title="PHP" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
+  <a href="https://laravel.com/"/><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
   <br>
   <br>
   
